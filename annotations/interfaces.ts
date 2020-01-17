@@ -25,5 +25,5 @@ const printReport = (item: Report): void => {
 };
 
 printReport(oldCivic);
-printReport(drink); 
+printReport(drink);
 
